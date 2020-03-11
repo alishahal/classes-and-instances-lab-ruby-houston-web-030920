@@ -2,5 +2,5 @@ class Person
 
 end
 
-alan_lay = Person.new
+alan_kay = Person.new
 adele_goldberg = Person.new
